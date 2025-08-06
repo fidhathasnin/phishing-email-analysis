@@ -1,0 +1,14 @@
+From: account-security@paypal.com  
+To: victim@example.com  
+Subject: Urgent: Your PayPal account has been limited!  
+
+Dear Customer,  
+
+We've detected suspicious activity in your account.  
+Please confirm your identity immediately, or your account will be permanently disabled.  
+
+Click here to verify your account: http://paypal-verification-alert.com/login  
+
+Thank you,  
+PayPal Security Team  
+
